@@ -5,6 +5,7 @@ namespace Exam3
 {
     class Program
     {
+        // не забудьте свои данные ввести
         private static string cs = "Server=localhost;Database=OlympicsDB;User Id=sa;Password=ЗДЕСЬ ДОЛЖЕН БЫТЬ ВАШ ПАРОЛЬ ОТ БАНКОВСКОГО ПРИЛОЖЕНИЯ;TrustServerCertificate=True;";
 
         static void Main()
