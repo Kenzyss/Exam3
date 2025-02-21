@@ -1,0 +1,32 @@
+#,OlympicId,Year,Season,HostCountry,HostCity
+1,1,2000,Summer,Australia,Sydney
+2,2,2002,Winter,USA,Salt Lake City
+3,3,2004,Summer,Greece,Athens
+4,4,2006,Winter,Italy,Turin
+5,5,2008,Summer,China,Beijing
+6,6,2010,Winter,Canada,Vancouver
+7,7,2012,Summer,United Kingdom,London
+8,8,2014,Winter,Russia,Sochi
+9,9,2016,Summer,Brazil,Rio de Janeiro
+10,10,2018,Winter,South Korea,Pyeongchang
+11,11,2020,Summer,Japan,Tokyo
+12,12,2022,Winter,China,Beijing
+13,13,2024,Summer,France,Paris
+14,14,2026,Winter,Italy,Milan
+15,15,2028,Summer,USA,Los Angeles
+16,16,2000,Summer,Australia,Sydney
+17,17,2002,Winter,USA,Salt Lake City
+18,18,2004,Summer,Greece,Athens
+19,19,2006,Winter,Italy,Turin
+20,20,2008,Summer,China,Beijing
+21,21,2010,Winter,Canada,Vancouver
+22,22,2012,Summer,United Kingdom,London
+23,23,2014,Winter,Russia,Sochi
+24,24,2016,Summer,Brazil,Rio de Janeiro
+25,25,2018,Winter,South Korea,Pyeongchang
+26,26,2020,Summer,Japan,Tokyo
+27,27,2022,Winter,China,Beijing
+28,28,2024,Summer,France,Paris
+29,29,2026,Winter,Italy,Milan
+30,30,2028,Summer,USA,Los Angeles
+31,31,2077,Summer,Russia,Kaliningrad

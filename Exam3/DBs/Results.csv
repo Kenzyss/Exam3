@@ -1,0 +1,11 @@
+#,ResultId,EventId,AthleteId,Medal
+1,1,1,1,Gold
+2,2,1,6,Silver
+3,3,2,2,Gold
+4,4,2,4,Bronze
+5,5,3,7,Silver
+6,6,4,8,Gold
+7,7,5,3,Silver
+8,8,6,6,Bronze
+9,9,7,5,Gold
+10,10,8,2,Silver
